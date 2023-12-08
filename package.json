@@ -1,0 +1,25 @@
+{
+  "name": "weather_cli",
+  "version": "1.0.0",
+  "description": "CLI for getting weather",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuriiVlk/weather_cli.git"
+  },
+  "keywords": [
+    "CLI",
+    "weather"
+  ],
+  "author": "Yurii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuriiVlk/weather_cli/issues"
+  },
+  "homepage": "https://github.com/YuriiVlk/weather_cli#readme"
+}
